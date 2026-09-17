@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[8724,["724","static/chunks/724-2494139f2fb75ebc.js","576","static/chunks/576-058844de3e3f9601.js","63","static/chunks/63-bdc5d5f7ee72b2ca.js","692","static/chunks/app/catalog/%5Bid%5D/page-a6d3030c04f31bfa.js"],""]
+3:I[2063,["724","static/chunks/724-2494139f2fb75ebc.js","576","static/chunks/576-058844de3e3f9601.js","63","static/chunks/63-bdc5d5f7ee72b2ca.js","692","static/chunks/app/catalog/%5Bid%5D/page-a6d3030c04f31bfa.js"],"ProductDetails"]
+4:I[2063,["724","static/chunks/724-2494139f2fb75ebc.js","576","static/chunks/576-058844de3e3f9601.js","63","static/chunks/63-bdc5d5f7ee72b2ca.js","692","static/chunks/app/catalog/%5Bid%5D/page-a6d3030c04f31bfa.js"],"ProductCard"]
+5:I[2868,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[2868,[],"ViewportBoundary"]
+b:I[2868,[],"MetadataBoundary"]
+d:I[8529,[],""]
+e:I[3573,[],""]
+9:X
+10:X
+10:C
+0:{"buildId":"vx6HWgpEZkuzNlAZ5CMo2","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page-container detail-page","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","$L2",null,{"href":"/","children":"Главная"}],["$","span",null,{"children":"/"}],["$","$L2",null,{"href":"/catalog","children":"Каталог"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"★ Hydra Gloves | Rattler"}]]}],["$","$L3",null,{"product":{"id":"swap-64ba82db6655","name":"★ Hydra Gloves | Rattler","description":"Перчатки без пальцев в бежево-коричневой гамме, с кожей, змеиной фактурой и эмблемой Hydra.\n\nПерчатки для Counter-Strike 2: ★ Hydra Gloves | Rattler. Состояние: Поношенное.","imageUrl":"/frags-site/catalog/c79afec279467a19bd42.avif","categoryId":"gloves","condition":"Поношенное","float":0.39,"priceMinor":555450,"weapon":"Hydra Gloves","finish":"Rattler","rarity":"Экстраординарное","stattrak":false,"source":{"name":"SkinSwap","url":"https://skinswap.com/ru","capturedAt":"2026-09-09T10:05:48.071828+00:00","price":96.41,"currency":"USD","rublesPerUnit":86.42}}}],["$","section",null,{"className":"section","children":[["$","div",null,{"className":"section-heading","children":[["$","h2",null,{"children":"Ещё в твоём стиле"}],["$","$L2",null,{"className":"text-link","href":"/catalog?category=gloves","children":"Вся категория ↗"}]]}],["$","div",null,{"className":"product-grid","children":[["$","$L4","swap-01ed2945591c",{"product":{"id":"swap-01ed2945591c","name":"★ Sport Gloves | Arid","description":"Спортивные перчатки в коричневых оттенках с цифровым камуфляжем и защитными накладками на костяшках.\n\nПерчатки для Counter-Strike 2: ★ Sport Gloves | Arid. Состояние: Немного поношенное.","imageUrl":"/frags-site/catalog/1804715c9b2ac025ebad.avif","categoryId":"gloves","condition":"Немного поношенное","float":0.144,"priceMinor":10836377,"weapon":"Sport Gloves","finish":"Arid","rarity":"Экстраординарное","stattrak":false,"source":{"name":"SkinSwap","url":"https://skinswap.com/ru","capturedAt":"2026-09-09T10:05:48.071828+00:00","price":1880.88,"currency":"USD","rublesPerUnit":86.42}}}]]}]]}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"★ Hydra Gloves | Rattler — Frags"}],["$","meta","1",{"name":"description","content":"Скины Counter-Strike 2, баланс Frags и прямое пополнение Steam. 1 Frags = 1,5 ₽."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@c","staleTime":"$9","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$9","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@11","staleTime":"$9","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+7:null
+13:true
+9:300
+9:C
+12:0
+c:"$undefined"
+f:"$undefined"
+11:"$undefined"
+8:"$undefined"
