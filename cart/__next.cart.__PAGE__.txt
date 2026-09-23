@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[1600,["724","static/chunks/724-2494139f2fb75ebc.js","576","static/chunks/576-058844de3e3f9601.js","5","static/chunks/app/cart/page-e3c265b452c798ef.js"],"CartView"]
+2:I[1600,["724","static/chunks/724-2494139f2fb75ebc.js","576","static/chunks/576-058844de3e3f9601.js","5","static/chunks/app/cart/page-6242ff7c80ef7fd5.js"],"CartView"]
 3:I[2868,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 8:I[2868,[],"ViewportBoundary"]
@@ -9,7 +9,7 @@ c:I[3573,[],""]
 7:X
 e:X
 e:C
-0:{"buildId":"vx6HWgpEZkuzNlAZ5CMo2","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Корзина — Frags"}],["$","meta","1",{"name":"description","content":"Скины Counter-Strike 2, баланс Frags и прямое пополнение Steam. 1 Frags = 1,5 ₽."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+0:{"buildId":"1jGE_VZFQjOKyB1j9F1rg","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Корзина — Frags"}],["$","meta","1",{"name":"description","content":"Скины Counter-Strike 2, баланс Frags и прямое пополнение Steam. 1 Frags = 1,5 ₽."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
 5:null
 10:true
 7:300
